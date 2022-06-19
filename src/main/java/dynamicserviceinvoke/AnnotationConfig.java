@@ -11,7 +11,7 @@ import java.util.Map;
 
 /**
  * @author : niejun
- * @Description: TODO
+ * @Description: 配置类
  * @date Date : 2022年06月16日 23:01
  **/
 @Configuration
